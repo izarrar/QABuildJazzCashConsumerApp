@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="Tests.TestListeners"/>
+  </listeners>
+  <test thread-count="1" name="Test1(failed)">
+    <parameter name="MSISDN" value="03130505945"/>
+    <parameter name="udid" value="R9ANC0T864J"/>
+    <parameter name="device" value="Samsung A10s"/>
+    <parameter name="platform" value="10"/>
+    <parameter name="systemPort" value="8205"/>
+    <classes>
+      <class name="Tests.Cash2Good">
+        <methods>
+          <include name="Clicked_On_Add_Money_CoachMark"/>
+          <include name="Click_On_C2G_Confirm_Button"/>
+          <include name="Select_City_Dropdown"/>
+          <include name="Enter_C2G_MPIN"/>
+          <include name="Entered_MPIN_Successfully"/>
+          <include name="setup"/>
+          <include name="Clicked_Help_and_Support"/>
+          <include name="Click_on_Mobile_Number_CheckBox"/>
+          <include name="MSISDN_Entered_Successfully"/>
+          <include name="Click_on_C2G_Send_Button"/>
+          <include name="C2G_Enter_City_Name"/>
+          <include name="Click_on_amount"/>
+          <include name="C2G_Click_on_search_field"/>
+          <include name="Enter_C2G_Amount"/>
+          <include name="Clicked_On_Ready_Cash_CoachMark"/>
+          <include name="Clicked_On_Balance_And_Transaction_History_CoachMark"/>
+          <include name="C2G_Receipt_Back"/>
+          <include name="Clicked_On_My_Account_CoachMark"/>
+          <include name="Clicked_On_Personalize_JazzCash_CoachMark"/>
+          <include name="researchText"/>
+          <include name="Clicked_On_Explore_All_Services_CoachMark"/>
+          <include name="Clicked_On_Notification_And_Promotions_CoachMark"/>
+          <include name="Enter_C2G_Mobile_Number"/>
+          <include name="C2G_Receipt"/>
+          <include name="C2G_Select_City"/>
+          <include name="Clicked_On_C2GMobile_Number_Search"/>
+          <include name="Customer_Logged_In_Successfully"/>
+          <include name="Enter_C2G_Amount_Continue"/>
+          <include name="Clicked_On_Cash2Good_icon"/>
+          <include name="Select_Category"/>
+          <include name="Send_C2G_Button"/>
+        </methods>
+      </class> <!-- Tests.Cash2Good -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

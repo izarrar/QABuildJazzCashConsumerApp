@@ -1,0 +1,621 @@
+{
+  "87ee48d46f7fa1f002d9017f21796ec0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "22b714ff569353a7",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.techlogix.mobilinkcustomer:id/next})",
+      "time" : {
+        "start" : 1629713931068,
+        "stop" : 1629713932800,
+        "duration" : 1732
+      }
+    } ]
+  },
+  "9cfbbfb5f748d118f9f800efecfc78fb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1a4dfabc97d76a26",
+      "status" : "skipped",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: 'GET /screenshot' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: ccbeb973-0e7a-40a3-ad7e-f4460f17e565",
+      "time" : {
+        "start" : 1629714056577,
+        "stop" : 1629714056578,
+        "duration" : 1
+      }
+    } ]
+  },
+  "e42284cd900c96496c5f0b753543a009" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "93739fcd6e0c8690",
+      "status" : "skipped",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: 'GET /screenshot' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: ccbeb973-0e7a-40a3-ad7e-f4460f17e565",
+      "time" : {
+        "start" : 1629714056539,
+        "stop" : 1629714056540,
+        "duration" : 1
+      }
+    } ]
+  },
+  "6bf69fc43b2e3ff6ab9096f50bc375d8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e43f69bb71e1b0a4",
+      "status" : "skipped",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: 'GET /screenshot' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: ccbeb973-0e7a-40a3-ad7e-f4460f17e565",
+      "time" : {
+        "start" : 1629714056582,
+        "stop" : 1629714056583,
+        "duration" : 1
+      }
+    } ]
+  },
+  "bafd5edd5b88a1361cf2d4e11429db5c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e2e5bc49655e28eb",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[1]/android.widget.RelativeLayout/android.view.ViewGroup[3]/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout}) (tried for 40 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1629713937946,
+        "stop" : 1629713979127,
+        "duration" : 41181
+      }
+    } ]
+  },
+  "bc2057523b69c815edfa955e6c8b2285" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "66850875468bf72c",
+      "status" : "skipped",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: 'GET /screenshot' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: ccbeb973-0e7a-40a3-ad7e-f4460f17e565",
+      "time" : {
+        "start" : 1629714056528,
+        "stop" : 1629714056529,
+        "duration" : 1
+      }
+    } ]
+  },
+  "af2d49d2574bf3f3245fa00340d57c43" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1d05da861d166acb",
+      "status" : "skipped",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: 'GET /screenshot' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: ccbeb973-0e7a-40a3-ad7e-f4460f17e565",
+      "time" : {
+        "start" : 1629714056523,
+        "stop" : 1629714056524,
+        "duration" : 1
+      }
+    } ]
+  },
+  "5e0df04ef1fdca677eb7bb65386783c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b199af4d211e53b3",
+      "status" : "skipped",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: 'GET /screenshot' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: ccbeb973-0e7a-40a3-ad7e-f4460f17e565",
+      "time" : {
+        "start" : 1629714056545,
+        "stop" : 1629714056546,
+        "duration" : 1
+      }
+    } ]
+  },
+  "490a0838c99ddfae3f353ba3f68cf67e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2f74c5e33767e5",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.techlogix.mobilinkcustomer:id/next}) (tried for 40 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1629713881452,
+        "stop" : 1629713923550,
+        "duration" : 42098
+      }
+    } ]
+  },
+  "5221d0a2741b30523d3d55182e6a1e34" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d99d8e3643e9dfa0",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.techlogix.mobilinkcustomer:id/searchRecipientET}) (tried for 40 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1629713979730,
+        "stop" : 1629714020413,
+        "duration" : 40683
+      }
+    } ]
+  },
+  "8291040cf1807a142a5c5a2700155f9f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "db10428cf77360d3",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.techlogix.mobilinkcustomer:id/tv_title})",
+      "time" : {
+        "start" : 1629713864649,
+        "stop" : 1629713873464,
+        "duration" : 8815
+      }
+    } ]
+  },
+  "14c882807b4bc1a101673c2523319836" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "41b45cccc2311e96",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.techlogix.mobilinkcustomer:id/next})",
+      "time" : {
+        "start" : 1629713926472,
+        "stop" : 1629713928178,
+        "duration" : 1706
+      }
+    } ]
+  },
+  "187d10ba9f756b2ea61f45a8e7839a01" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bb0a74a701f26f96",
+      "status" : "skipped",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: 'GET /screenshot' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: ccbeb973-0e7a-40a3-ad7e-f4460f17e565",
+      "time" : {
+        "start" : 1629714056565,
+        "stop" : 1629714056566,
+        "duration" : 1
+      }
+    } ]
+  },
+  "5129d245ff90d40c7391741d6d87b6a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "47e86a676499d282",
+      "status" : "skipped",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: 'GET /screenshot' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: ccbeb973-0e7a-40a3-ad7e-f4460f17e565",
+      "time" : {
+        "start" : 1629714056555,
+        "stop" : 1629714056556,
+        "duration" : 1
+      }
+    } ]
+  },
+  "211eb855d650fbcd3e5f9a1afbdc6953" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eb30a831cb987eea",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: driver.version: AndroidDriver",
+      "time" : {
+        "start" : 1629712460876,
+        "stop" : 1629712460878,
+        "duration" : 2
+      }
+    } ]
+  },
+  "2e9848317df7fc63fcd7b10e69284135" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65a65078397f538b",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: 'GET /screenshot' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: ccbeb973-0e7a-40a3-ad7e-f4460f17e565",
+      "time" : {
+        "start" : 1629714056517,
+        "stop" : 1629714056518,
+        "duration" : 1
+      }
+    } ]
+  },
+  "ee915aabb2a74aa756038ddf41ad3aec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c89edda333dcceb4",
+      "status" : "skipped",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: 'GET /screenshot' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: ccbeb973-0e7a-40a3-ad7e-f4460f17e565",
+      "time" : {
+        "start" : 1629714056535,
+        "stop" : 1629714056535,
+        "duration" : 0
+      }
+    } ]
+  },
+  "dd5288886157c867316830631082b779" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3814d375adaf53f1",
+      "status" : "broken",
+      "statusDetails" : "org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: 'POST /element' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: ccbeb973-0e7a-40a3-ad7e-f4460f17e565\n*** Element info: {Using=id, value=com.techlogix.mobilinkcustomer:id/select_city_layout}",
+      "time" : {
+        "start" : 1629714027866,
+        "stop" : 1629714056501,
+        "duration" : 28635
+      }
+    } ]
+  },
+  "2d84e1a6199e178ec4b061aeca1399a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "467286943d33d25d",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.techlogix.mobilinkcustomer:id/next})",
+      "time" : {
+        "start" : 1629713874141,
+        "stop" : 1629713880886,
+        "duration" : 6745
+      }
+    } ]
+  },
+  "96ee0fe3b59de513cb9d882feac83cb6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9760c6db75e17024",
+      "status" : "skipped",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: 'GET /screenshot' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: ccbeb973-0e7a-40a3-ad7e-f4460f17e565",
+      "time" : {
+        "start" : 1629714056560,
+        "stop" : 1629714056561,
+        "duration" : 1
+      }
+    } ]
+  },
+  "70266a2c32986a52d43c1c2d5211dced" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "619592b4f4ff8cf9",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.techlogix.mobilinkcustomer:id/next})",
+      "time" : {
+        "start" : 1629713928769,
+        "stop" : 1629713930482,
+        "duration" : 1713
+      }
+    } ]
+  },
+  "39747d1bb270995e1d084d835c410625" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1be42608a9189b6",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.techlogix.mobilinkcustomer:id/next})",
+      "time" : {
+        "start" : 1629713924146,
+        "stop" : 1629713925883,
+        "duration" : 1737
+      }
+    } ]
+  },
+  "6761ff12c5e8a7020b7ce98eeac82637" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "93fef643aab5ae3",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.techlogix.mobilinkcustomer:id/checkContact})",
+      "time" : {
+        "start" : 1629714023305,
+        "stop" : 1629714025032,
+        "duration" : 1727
+      }
+    } ]
+  },
+  "a180bcd4d9d5fab0617807164b832975" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "587b8c021d4b2760",
+      "status" : "skipped",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: 'GET /screenshot' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: ccbeb973-0e7a-40a3-ad7e-f4460f17e565",
+      "time" : {
+        "start" : 1629714056550,
+        "stop" : 1629714056551,
+        "duration" : 1
+      }
+    } ]
+  },
+  "7f429a594ccda9175edfeb822f3b94ba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb627115a1419d64",
+      "status" : "skipped",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: 'GET /screenshot' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: ccbeb973-0e7a-40a3-ad7e-f4460f17e565",
+      "time" : {
+        "start" : 1629714056572,
+        "stop" : 1629714056573,
+        "duration" : 1
+      }
+    } ]
+  },
+  "ea00077c123ea210f0514e28c7a33ee0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "36e0990cf1b189ee",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.techlogix.mobilinkcustomer:id/add_sendC2G_btn})",
+      "time" : {
+        "start" : 1629714025620,
+        "stop" : 1629714027301,
+        "duration" : 1681
+      }
+    } ]
+  },
+  "d95ff6c0374b0b4afdc5221c9a45b404" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "20cd46deda01080",
+      "status" : "skipped",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: 'GET /screenshot' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: ccbeb973-0e7a-40a3-ad7e-f4460f17e565",
+      "time" : {
+        "start" : 1629714056588,
+        "stop" : 1629714056589,
+        "duration" : 1
+      }
+    } ]
+  },
+  "4167017b0e36fe6a7832e27f1be4f1e9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f6484e86b379ef6",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.techlogix.mobilinkcustomer:id/searchRecipientET})",
+      "time" : {
+        "start" : 1629714020999,
+        "stop" : 1629714022722,
+        "duration" : 1723
+      }
+    } ]
+  },
+  "5468b5e6e750194de23d1e7f9428a2f4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eb97e03eef27f724",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.techlogix.mobilinkcustomer:id/next})",
+      "time" : {
+        "start" : 1629713933370,
+        "stop" : 1629713935082,
+        "duration" : 1712
+      }
+    } ]
+  },
+  "c1aade6213b51f923f40c91e89288503" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "21281ae7a864c61f",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.techlogix.mobilinkcustomer:id/next})",
+      "time" : {
+        "start" : 1629713935653,
+        "stop" : 1629713937380,
+        "duration" : 1727
+      }
+    } ]
+  },
+  "1e816311a4b97d3e34898798640fddf7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "668d5f9196912df0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629713851578,
+        "stop" : 1629713864542,
+        "duration" : 12964
+      }
+    } ]
+  }
+}

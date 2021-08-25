@@ -1,0 +1,26 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "62ddd3471be0dcd0325f9436199e1195",
+    "name" : "ABC",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 14,
+      "skipped" : 13,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 27
+    }
+  }, {
+    "uid" : "a382556803745a182ef00abb6381387c",
+    "name" : "Cash2Good",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

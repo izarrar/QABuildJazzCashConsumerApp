@@ -1,0 +1,130 @@
+{
+  "uid" : "49aa4bbdc37feafe",
+  "name" : "Entered_MPIN_Successfully",
+  "fullName" : "Tests.Cash2Good.Entered_MPIN_Successfully",
+  "historyId" : "8291040cf1807a142a5c5a2700155f9f",
+  "time" : {
+    "start" : 1629203096392,
+    "stop" : 1629203107771,
+    "duration" : 11379
+  },
+  "description" : "Verify that MPIN is successfully added",
+  "descriptionHtml" : "<p>Verify that MPIN is successfully added</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "researchText",
+    "time" : {
+      "start" : 1629203066498,
+      "stop" : 1629203066504,
+      "duration" : 6
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1629203066505,
+      "stop" : 1629203082372,
+      "duration" : 15867
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "onTestFaliure",
+    "time" : {
+      "start" : 1629203107774,
+      "stop" : 1629203107774,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Tests.Cash2Good"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.Cash2Good"
+  }, {
+    "name" : "testMethod",
+    "value" : "Entered_MPIN_Successfully"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Tests.Cash2Good"
+  }, {
+    "name" : "host",
+    "value" : "LHRLT-7210"
+  }, {
+    "name" : "thread",
+    "value" : "35828@LHRLT-7210.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Cash2Good"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "MSISDN",
+    "value" : "03130505945"
+  }, {
+    "name" : "device",
+    "value" : "Samsung A10s"
+  }, {
+    "name" : "platform",
+    "value" : "10"
+  }, {
+    "name" : "systemPort",
+    "value" : "8205"
+  }, {
+    "name" : "udid",
+    "value" : "R9ANC0T864J"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "49aa4bbdc37feafe.json",
+  "parameterValues" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+}
