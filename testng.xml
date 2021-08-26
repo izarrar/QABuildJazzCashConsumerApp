@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="4" parallel="tests" verbose="4">
+	<listeners>
+		<listener class-name="Tests.TestListeners" />
+	</listeners>
+	<test name="Test1">
+	<parameter name="platform" value="10" />
+		<parameter name="udid" value="RF8R202FQ1A" />
+		<parameter name="device" value="Samsung A31" />
+		<parameter name="MSISDN" value="03094004323" />
+		<parameter name="systemPort" value="8221" />
+		<classes>
+			<class name="Tests.CONSUMERAPP" />
+		</classes>
+		
+		
+	</test>
+
+	<test name="Test2">
+	<parameter name="platform" value="10" />
+		<parameter name="udid" value="R58NC1B53YL" />
+		<parameter name="device" value="Samsung A21s" />
+		<parameter name="MSISDN" value="03054315178" />
+		<parameter name="systemPort" value="8208" />
+		<classes>
+			<class name="Tests.CONSUMERAPP" />
+		</classes>
+		
+		
+	</test>
+	
+	<test name="Test3">
+	<parameter name="platform" value="10" />
+		<parameter name="udid" value="R9ANC0T864J" />
+		<parameter name="device" value="Samsung A10s" />
+		<parameter name="MSISDN" value="03130505945" />
+		<parameter name="systemPort" value="8205" />
+		<classes>
+			<class name="Tests.CONSUMERAPP" />
+
+			
+		</classes>
+		
+	</test>
+	
+	<test name="Test4">
+	<parameter name="platform" value="10" />
+		<parameter name="udid" value="R9JNB01CCYJ" />
+		<parameter name="device" value="Samasung A11" />
+		<parameter name="MSISDN" value="03094004388" />
+		<parameter name="systemPort" value="8213" />
+		<classes>
+			<class name="Tests.CONSUMERAPP" />
+		</classes>
+		
+	</test>
+
+</suite> <!-- Suite -->

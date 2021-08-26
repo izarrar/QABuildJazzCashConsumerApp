@@ -1,0 +1,98 @@
+{
+  "uid" : "f2b627cc4fb37701",
+  "name" : "Customer_Logged_In_Successfully",
+  "fullName" : "Tests.Cash2Good.Customer_Logged_In_Successfully",
+  "historyId" : "2d84e1a6199e178ec4b061aeca1399a",
+  "time" : {
+    "start" : 1629713420982,
+    "stop" : 1629713428087,
+    "duration" : 7105
+  },
+  "description" : "ABC",
+  "descriptionHtml" : "<p>ABC</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ {
+    "name" : "onTestFaliure",
+    "time" : {
+      "start" : 1629713428090,
+      "stop" : 1629713428090,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Tests.Cash2Good"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.Cash2Good"
+  }, {
+    "name" : "testMethod",
+    "value" : "Customer_Logged_In_Successfully"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Tests.Cash2Good"
+  }, {
+    "name" : "host",
+    "value" : "LHRLT-7210"
+  }, {
+    "name" : "thread",
+    "value" : "25576@LHRLT-7210.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "ABC"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "MSISDN",
+    "value" : "03130505945"
+  }, {
+    "name" : "device",
+    "value" : "Samsung A10s"
+  }, {
+    "name" : "platform",
+    "value" : "10"
+  }, {
+    "name" : "systemPort",
+    "value" : "8205"
+  }, {
+    "name" : "udid",
+    "value" : "R9ANC0T864J"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f2b627cc4fb37701.json",
+  "parameterValues" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+}

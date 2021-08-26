@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="tests" name="Failed suite [Suite1]" guice-stage="DEVELOPMENT" verbose="4">
+  <listeners>
+    <listener class-name="Tests.TestListeners"/>
+  </listeners>
+  <test thread-count="2" parallel="tests" name="Test1(failed)" verbose="4">
+    <parameter name="MSISDN" value="03094004415"/>
+    <parameter name="udid" value="22T4C20728008739"/>
+    <parameter name="device" value="VivoY51"/>
+    <parameter name="platform" value="10"/>
+    <parameter name="systemPort" value="8203"/>
+    <classes>
+      <class name="Tests.CONSUMERAPP">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="researchText"/>
+          <include name="Clicked_On_Ready_Cash_CoachMark"/>
+        </methods>
+      </class> <!-- Tests.CONSUMERAPP -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+  <test thread-count="2" parallel="tests" name="Test2(failed)" verbose="4">
+    <parameter name="MSISDN" value="03094004388"/>
+    <parameter name="udid" value="R9JNB01CCYJ"/>
+    <parameter name="device" value="SamsungA21s"/>
+    <parameter name="platform" value="10"/>
+    <parameter name="systemPort" value="8208"/>
+    <classes>
+      <class name="Tests.CONSUMERAPP">
+        <methods>
+          <include name="Customer_Logged_In_Successfully"/>
+          <include name="setup"/>
+          <include name="researchText"/>
+          <include name="Clicked_On_Ready_Cash_CoachMark"/>
+          <include name="Clicked_On_Add_Money_CoachMark"/>
+          <include name="Clicked_On_My_Account_CoachMark"/>
+          <include name="tearDown"/>
+          <include name="Clicked_On_Explore_All_Services_CoachMark"/>
+          <include name="Entered_MPIN_Successfully"/>
+          <include name="MSISDN_Entered_Successfully"/>
+          <include name="Clicked_On_Notification_And_Promotions_CoachMark"/>
+          <include name="Clicked_On_Personalize_JazzCash_CoachMark"/>
+          <include name="Clicked_On_Balance_And_Transaction_History_CoachMark"/>
+        </methods>
+      </class> <!-- Tests.CONSUMERAPP -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

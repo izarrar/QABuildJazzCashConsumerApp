@@ -1,0 +1,389 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Test1",
+      "children" : [ {
+        "name" : "Tests.Cash2Good",
+        "children" : [ {
+          "name" : "setup",
+          "uid" : "eb30a831cb987eea",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629712460876,
+            "stop" : 1629712460878,
+            "duration" : 2
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Verify that MPIN is successfully added",
+          "uid" : "668d5f9196912df0",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629713851578,
+            "stop" : 1629713864542,
+            "duration" : 12964
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Entered_MPIN_Successfully",
+          "uid" : "db10428cf77360d3",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629713864649,
+            "stop" : 1629713873464,
+            "duration" : 8815
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Customer_Logged_In_Successfully",
+          "uid" : "467286943d33d25d",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629713874141,
+            "stop" : 1629713880886,
+            "duration" : 6745
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Clicked_On_Add_Money_CoachMark",
+          "uid" : "d2f74c5e33767e5",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629713881452,
+            "stop" : 1629713923550,
+            "duration" : 42098
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Clicked_On_Balance_And_Transaction_History_CoachMark",
+          "uid" : "c1be42608a9189b6",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629713924146,
+            "stop" : 1629713925883,
+            "duration" : 1737
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Clicked_On_Ready_Cash_CoachMark",
+          "uid" : "41b45cccc2311e96",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629713926472,
+            "stop" : 1629713928178,
+            "duration" : 1706
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Clicked_On_My_Account_CoachMark",
+          "uid" : "619592b4f4ff8cf9",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629713928769,
+            "stop" : 1629713930482,
+            "duration" : 1713
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Clicked_On_Personalize_JazzCash_CoachMark",
+          "uid" : "22b714ff569353a7",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629713931068,
+            "stop" : 1629713932800,
+            "duration" : 1732
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Clicked_On_Explore_All_Services_CoachMark",
+          "uid" : "eb97e03eef27f724",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629713933370,
+            "stop" : 1629713935082,
+            "duration" : 1712
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Clicked_On_Notification_And_Promotions_CoachMark",
+          "uid" : "21281ae7a864c61f",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629713935653,
+            "stop" : 1629713937380,
+            "duration" : 1727
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Clicked_On_Cash2Good_icon",
+          "uid" : "e2e5bc49655e28eb",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629713937946,
+            "stop" : 1629713979127,
+            "duration" : 41181
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Clicked_On_C2GMobile_Number_Search",
+          "uid" : "d99d8e3643e9dfa0",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629713979730,
+            "stop" : 1629714020413,
+            "duration" : 40683
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Enter_C2G_Mobile_Number",
+          "uid" : "4f6484e86b379ef6",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629714020999,
+            "stop" : 1629714022722,
+            "duration" : 1723
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Click_on_Mobile_Number_CheckBox",
+          "uid" : "93fef643aab5ae3",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629714023305,
+            "stop" : 1629714025032,
+            "duration" : 1727
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Click_on_C2G_Send_Button",
+          "uid" : "36e0990cf1b189ee",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629714025620,
+            "stop" : 1629714027301,
+            "duration" : 1681
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Select_City_Dropdown",
+          "uid" : "3814d375adaf53f1",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629714027866,
+            "stop" : 1629714056501,
+            "duration" : 28635
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "onTestFaliure",
+          "uid" : "65a65078397f538b",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629714056517,
+            "stop" : 1629714056518,
+            "duration" : 1
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "C2G_Click_on_search_field",
+          "uid" : "1d05da861d166acb",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1629714056523,
+            "stop" : 1629714056524,
+            "duration" : 1
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "C2G_Enter_City_Name",
+          "uid" : "66850875468bf72c",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1629714056528,
+            "stop" : 1629714056529,
+            "duration" : 1
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "C2G_Select_City",
+          "uid" : "c89edda333dcceb4",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1629714056535,
+            "stop" : 1629714056535,
+            "duration" : 0
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Select_Category",
+          "uid" : "93739fcd6e0c8690",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1629714056539,
+            "stop" : 1629714056540,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Click_on_amount",
+          "uid" : "b199af4d211e53b3",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1629714056545,
+            "stop" : 1629714056546,
+            "duration" : 1
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Enter_C2G_Amount",
+          "uid" : "587b8c021d4b2760",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1629714056550,
+            "stop" : 1629714056551,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Enter_C2G_Amount_Continue",
+          "uid" : "47e86a676499d282",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1629714056555,
+            "stop" : 1629714056556,
+            "duration" : 1
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Send_C2G_Button",
+          "uid" : "9760c6db75e17024",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1629714056560,
+            "stop" : 1629714056561,
+            "duration" : 1
+          },
+          "flaky" : true,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Click_On_C2G_Confirm_Button",
+          "uid" : "bb0a74a701f26f96",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1629714056565,
+            "stop" : 1629714056566,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Enter_C2G_MPIN",
+          "uid" : "cb627115a1419d64",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1629714056572,
+            "stop" : 1629714056573,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "C2G_Receipt",
+          "uid" : "1a4dfabc97d76a26",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1629714056577,
+            "stop" : 1629714056578,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "C2G_Receipt_Back",
+          "uid" : "e43f69bb71e1b0a4",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1629714056582,
+            "stop" : 1629714056583,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        }, {
+          "name" : "Clicked_Help_and_Support",
+          "uid" : "20cd46deda01080",
+          "parentUid" : "0af05043e1f00cbeeec687a1b271fb44",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1629714056588,
+            "stop" : 1629714056589,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+        } ],
+        "uid" : "0af05043e1f00cbeeec687a1b271fb44"
+      } ],
+      "uid" : "3bfb5e422c51cc5dafc48a5a7c06dbed"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}
