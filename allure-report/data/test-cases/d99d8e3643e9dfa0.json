@@ -1,0 +1,237 @@
+{
+  "uid" : "d99d8e3643e9dfa0",
+  "name" : "Clicked_On_C2GMobile_Number_Search",
+  "fullName" : "Tests.Cash2Good.Clicked_On_C2GMobile_Number_Search",
+  "historyId" : "5221d0a2741b30523d3d55182e6a1e34",
+  "time" : {
+    "start" : 1629713979730,
+    "stop" : 1629714020413,
+    "duration" : 40683
+  },
+  "description" : "ABC",
+  "descriptionHtml" : "<p>ABC</p>\n",
+  "status" : "broken",
+  "statusMessage" : "Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.techlogix.mobilinkcustomer:id/searchRecipientET}) (tried for 40 second(s) with 500 milliseconds interval)",
+  "statusTrace" : "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.techlogix.mobilinkcustomer:id/searchRecipientET}) (tried for 40 second(s) with 500 milliseconds interval)\r\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)\r\n\tat Tests.Cash2Good.Clicked_On_C2GMobile_Number_Search(Cash2Good.java:292)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)\r\n\tat org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)\r\n\tat org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)\r\n\tat org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)\r\n\tat org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)\r\n\tat org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1541)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:764)\r\n\tat org.testng.TestRunner.run(TestRunner.java:585)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:384)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:286)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1140)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1069)\r\n\tat org.testng.TestNG.run(TestNG.java:1037)\r\n\tat org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:284)\r\n\tat org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)\r\n\tat org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:119)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)\r\nCaused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: com.techlogix.mobilinkcustomer:id/searchRecipientET})\r\n\tat io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)\r\n\tat io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)\r\n\tat io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.isDisplayed(<generated>)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)\r\n\t... 33 more\r\nCaused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@7aca299e (tried for 1 second(s) with 500 milliseconds interval)\r\n\tat org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)\r\n\tat io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)\r\n\tat io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)\r\n\t... 40 more\r\nCaused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.id: com.techlogix.mobilinkcustomer:id/searchRecipientET})\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: driver.version: AndroidDriver\r\n\tat io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)\r\n\tat io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)\r\n\tat io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)\r\n\tat io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)\r\n\tat io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)\r\n\tat io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)\r\n\tat io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)\r\n\t... 42 more\r\n",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "researchText",
+    "time" : {
+      "start" : 1629713829501,
+      "stop" : 1629713829508,
+      "duration" : 7
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1629713829508,
+      "stop" : 1629713851492,
+      "duration" : 21984
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "onTestFaliure",
+    "time" : {
+      "start" : 1629714020416,
+      "stop" : 1629714020996,
+      "duration" : 580
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9d284178838a3943",
+      "name" : "Page Screenshot",
+      "source" : "9d284178838a3943.png",
+      "type" : "image/png",
+      "size" : 60912
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Tests.Cash2Good"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.Cash2Good"
+  }, {
+    "name" : "testMethod",
+    "value" : "Clicked_On_C2GMobile_Number_Search"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Tests.Cash2Good"
+  }, {
+    "name" : "host",
+    "value" : "LHRLT-7210"
+  }, {
+    "name" : "thread",
+    "value" : "10428@LHRLT-7210.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "ABC"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "MSISDN",
+    "value" : "03130505945"
+  }, {
+    "name" : "device",
+    "value" : "Samsung A10s"
+  }, {
+    "name" : "platform",
+    "value" : "10"
+  }, {
+    "name" : "systemPort",
+    "value" : "8205"
+  }, {
+    "name" : "udid",
+    "value" : "R9ANC0T864J"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3237a7fbee68433c",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.techlogix.mobilinkcustomer:id/searchRecipientET}) (tried for 40 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1629713739415,
+        "stop" : 1629713781205,
+        "duration" : 41790
+      }
+    }, {
+      "uid" : "26c87ae24c27b3a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629713451450,
+        "stop" : 1629713456543,
+        "duration" : 5093
+      }
+    }, {
+      "uid" : "59c22b13a4d1928d",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.techlogix.mobilinkcustomer:id/searchRecipientET}) (tried for 40 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1629713237512,
+        "stop" : 1629713278915,
+        "duration" : 41403
+      }
+    }, {
+      "uid" : "59c8c67a647b0c94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629712870046,
+        "stop" : 1629712874308,
+        "duration" : 4262
+      }
+    }, {
+      "uid" : "ee3a260a307d66c0",
+      "status" : "skipped",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: a6dd9445-e5ec-478d-b79a-ffcf130b782f",
+      "time" : {
+        "start" : 1629712785149,
+        "stop" : 1629712785149,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3affbd29cc7c174c",
+      "status" : "skipped",
+      "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: driver.version: AndroidDriver",
+      "time" : {
+        "start" : 1629712461170,
+        "stop" : 1629712461171,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "259ac4bfdffa46df",
+      "status" : "skipped",
+      "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: driver.version: AndroidDriver",
+      "time" : {
+        "start" : 1629712446966,
+        "stop" : 1629712446966,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b5e2f05ea4f01db0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629203136848,
+        "stop" : 1629203142054,
+        "duration" : 5206
+      }
+    }, {
+      "uid" : "526e74d6bac7ae19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629199052992,
+        "stop" : 1629199057191,
+        "duration" : 4199
+      }
+    }, {
+      "uid" : "fe0ebd0bab42c72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629197983463,
+        "stop" : 1629197988190,
+        "duration" : 4727
+      }
+    }, {
+      "uid" : "792ed8dc22cc53ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629197445972,
+        "stop" : 1629197450271,
+        "duration" : 4299
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "d99d8e3643e9dfa0.json",
+  "parameterValues" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+}

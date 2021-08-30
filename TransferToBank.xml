@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Suite">
+	<listeners>
+		<listener class-name="Tests.TestListeners" />
+	</listeners>
+	<test name="Test1">
+		<parameter name="platform" value="10" />
+		<parameter name="udid" value="RF8R202FQ1A" />
+		<parameter name="device" value="Samsung A31" />
+		<parameter name="MSISDN" value="03094004323" />
+		<parameter name="systemPort" value="4723" />
+		<classes>
+			<class name="Tests.CONSUMERAPP">
+				<methods>
+					<include name="MSISDN_Entered_Successfully" />
+					<include name="Entered_MPIN_Successfully" />
+					<include name="Clicked_On_Add_Money_CoachMark" />
+					<include name="Clicked_On_Balance_And_Transaction_History_CoachMark" />
+					<include name="Clicked_On_Ready_Cash_CoachMark" />
+					<include name="Clicked_On_My_Account_CoachMark" />
+					<include name="Clicked_On_Personalize_JazzCash_CoachMark" />
+					<include name="Clicked_On_Explore_All_Services_CoachMark" />
+					<include name="Clicked_On_Notification_And_Promotions_CoachMark" />
+					<include name="Clicked_On_Money_Transfer_To_Bank" />
+					<include name="Searched_And_Selected_Bank_Name" />
+					<include name="Entered_Account_Number" />
+					<include name="Entered_Bank_Account_Number" />
+					<include name="Entered_Amount_To_Transfer" />
+					<include name="Select_Purpoes_of_Payment" />
+					<include name="Skipped_Recipient_Mobile_Number" />
+					<include name="Confirmed_Transfer_To_Bank_Account" />
+					<include name="Entered_MPIN_To_Authorize_Transfer_To_Bank" />
+					<include name="Transfer_To_Bank_Reciept" />
+
+			
+					
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+</suite> <!-- Suite -->

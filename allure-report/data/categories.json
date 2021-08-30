@@ -1,0 +1,257 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: driver.version: AndroidDriver",
+      "children" : [ {
+        "name" : "setup",
+        "uid" : "eb30a831cb987eea",
+        "parentUid" : "d92f85b9b5cabbb337108230c8359195",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629712460876,
+          "stop" : 1629712460878,
+          "duration" : 2
+        },
+        "flaky" : true,
+        "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+      } ],
+      "uid" : "d92f85b9b5cabbb337108230c8359195"
+    }, {
+      "name" : "Can't locate an element by this strategy: By.chained({By.id: com.techlogix.mobilinkcustomer:id/tv_title})",
+      "children" : [ {
+        "name" : "Entered_MPIN_Successfully",
+        "uid" : "db10428cf77360d3",
+        "parentUid" : "86e09a713b509fc4b291b1d7748c2efe",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629713864649,
+          "stop" : 1629713873464,
+          "duration" : 8815
+        },
+        "flaky" : true,
+        "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+      } ],
+      "uid" : "86e09a713b509fc4b291b1d7748c2efe"
+    }, {
+      "name" : "Can't locate an element by this strategy: By.chained({By.id: com.techlogix.mobilinkcustomer:id/next})",
+      "children" : [ {
+        "name" : "Customer_Logged_In_Successfully",
+        "uid" : "467286943d33d25d",
+        "parentUid" : "defdaa0ff08ac059529aa9ef5cca863d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629713874141,
+          "stop" : 1629713880886,
+          "duration" : 6745
+        },
+        "flaky" : true,
+        "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+      }, {
+        "name" : "Clicked_On_Balance_And_Transaction_History_CoachMark",
+        "uid" : "c1be42608a9189b6",
+        "parentUid" : "defdaa0ff08ac059529aa9ef5cca863d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629713924146,
+          "stop" : 1629713925883,
+          "duration" : 1737
+        },
+        "flaky" : true,
+        "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+      }, {
+        "name" : "Clicked_On_Ready_Cash_CoachMark",
+        "uid" : "41b45cccc2311e96",
+        "parentUid" : "defdaa0ff08ac059529aa9ef5cca863d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629713926472,
+          "stop" : 1629713928178,
+          "duration" : 1706
+        },
+        "flaky" : true,
+        "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+      }, {
+        "name" : "Clicked_On_My_Account_CoachMark",
+        "uid" : "619592b4f4ff8cf9",
+        "parentUid" : "defdaa0ff08ac059529aa9ef5cca863d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629713928769,
+          "stop" : 1629713930482,
+          "duration" : 1713
+        },
+        "flaky" : true,
+        "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+      }, {
+        "name" : "Clicked_On_Personalize_JazzCash_CoachMark",
+        "uid" : "22b714ff569353a7",
+        "parentUid" : "defdaa0ff08ac059529aa9ef5cca863d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629713931068,
+          "stop" : 1629713932800,
+          "duration" : 1732
+        },
+        "flaky" : true,
+        "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+      }, {
+        "name" : "Clicked_On_Explore_All_Services_CoachMark",
+        "uid" : "eb97e03eef27f724",
+        "parentUid" : "defdaa0ff08ac059529aa9ef5cca863d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629713933370,
+          "stop" : 1629713935082,
+          "duration" : 1712
+        },
+        "flaky" : true,
+        "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+      }, {
+        "name" : "Clicked_On_Notification_And_Promotions_CoachMark",
+        "uid" : "21281ae7a864c61f",
+        "parentUid" : "defdaa0ff08ac059529aa9ef5cca863d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629713935653,
+          "stop" : 1629713937380,
+          "duration" : 1727
+        },
+        "flaky" : true,
+        "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+      } ],
+      "uid" : "defdaa0ff08ac059529aa9ef5cca863d"
+    }, {
+      "name" : "Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.techlogix.mobilinkcustomer:id/next}) (tried for 40 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "Clicked_On_Add_Money_CoachMark",
+        "uid" : "d2f74c5e33767e5",
+        "parentUid" : "b9de027c74b4ff95269fecd4404701ca",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629713881452,
+          "stop" : 1629713923550,
+          "duration" : 42098
+        },
+        "flaky" : true,
+        "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+      } ],
+      "uid" : "b9de027c74b4ff95269fecd4404701ca"
+    }, {
+      "name" : "Expected condition failed: waiting for visibility of Located by By.chained({By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[1]/android.widget.RelativeLayout/android.view.ViewGroup[3]/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout}) (tried for 40 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "Clicked_On_Cash2Good_icon",
+        "uid" : "e2e5bc49655e28eb",
+        "parentUid" : "d0f06ea68bb602648f5133c7e373de14",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629713937946,
+          "stop" : 1629713979127,
+          "duration" : 41181
+        },
+        "flaky" : true,
+        "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+      } ],
+      "uid" : "d0f06ea68bb602648f5133c7e373de14"
+    }, {
+      "name" : "Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.techlogix.mobilinkcustomer:id/searchRecipientET}) (tried for 40 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "Clicked_On_C2GMobile_Number_Search",
+        "uid" : "d99d8e3643e9dfa0",
+        "parentUid" : "4d97aafb30bd89c80c3146166740dd4d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629713979730,
+          "stop" : 1629714020413,
+          "duration" : 40683
+        },
+        "flaky" : true,
+        "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+      } ],
+      "uid" : "4d97aafb30bd89c80c3146166740dd4d"
+    }, {
+      "name" : "Can't locate an element by this strategy: By.chained({By.id: com.techlogix.mobilinkcustomer:id/searchRecipientET})",
+      "children" : [ {
+        "name" : "Enter_C2G_Mobile_Number",
+        "uid" : "4f6484e86b379ef6",
+        "parentUid" : "62c198d821b51bafe98076f2b3e65f73",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629714020999,
+          "stop" : 1629714022722,
+          "duration" : 1723
+        },
+        "flaky" : true,
+        "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+      } ],
+      "uid" : "62c198d821b51bafe98076f2b3e65f73"
+    }, {
+      "name" : "Can't locate an element by this strategy: By.chained({By.id: com.techlogix.mobilinkcustomer:id/checkContact})",
+      "children" : [ {
+        "name" : "Click_on_Mobile_Number_CheckBox",
+        "uid" : "93fef643aab5ae3",
+        "parentUid" : "511dc5b926d7f02c6b51d770e194fcc9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629714023305,
+          "stop" : 1629714025032,
+          "duration" : 1727
+        },
+        "flaky" : true,
+        "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+      } ],
+      "uid" : "511dc5b926d7f02c6b51d770e194fcc9"
+    }, {
+      "name" : "Can't locate an element by this strategy: By.chained({By.id: com.techlogix.mobilinkcustomer:id/add_sendC2G_btn})",
+      "children" : [ {
+        "name" : "Click_on_C2G_Send_Button",
+        "uid" : "36e0990cf1b189ee",
+        "parentUid" : "3fbd9d6da87c423a8759380b772cdfae",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629714025620,
+          "stop" : 1629714027301,
+          "duration" : 1681
+        },
+        "flaky" : true,
+        "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+      } ],
+      "uid" : "3fbd9d6da87c423a8759380b772cdfae"
+    }, {
+      "name" : "org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: 'POST /element' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: ccbeb973-0e7a-40a3-ad7e-f4460f17e565\n*** Element info: {Using=id, value=com.techlogix.mobilinkcustomer:id/select_city_layout}",
+      "children" : [ {
+        "name" : "Select_City_Dropdown",
+        "uid" : "3814d375adaf53f1",
+        "parentUid" : "5958c1c56e4ee1e6c776e2d859391d49",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629714027866,
+          "stop" : 1629714056501,
+          "duration" : 28635
+        },
+        "flaky" : true,
+        "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+      } ],
+      "uid" : "5958c1c56e4ee1e6c776e2d859391d49"
+    }, {
+      "name" : "An unknown server-side error occurred while processing the command. Original error: 'GET /screenshot' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LHRLT-7210', ip: '10.33.106.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.ibm.jazzcashconsumer.vi..., appPackage: com.techlogix.mobilinkcustomer, autoGrantPermissions: true, deviceName: Samsung A10s, newCommandTimeout: 90, platformName: android, platformVersion: 10, systemPort: 8205, udid: R9ANC0T864J}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A107F, deviceName: R9ANC0T864J, deviceScreenDensity: 280, deviceScreenSize: 720x1520, deviceUDID: R9ANC0T864J, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 90, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 55, systemPort: 8205, takesScreenshot: true, udid: R9ANC0T864J, viewportRect: {height: 1326, left: 0, top: 55, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: ccbeb973-0e7a-40a3-ad7e-f4460f17e565",
+      "children" : [ {
+        "name" : "onTestFaliure",
+        "uid" : "65a65078397f538b",
+        "parentUid" : "b317b7ee12aaa88d7f0254717e2d8207",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629714056517,
+          "stop" : 1629714056518,
+          "duration" : 1
+        },
+        "flaky" : true,
+        "parameters" : [ "03130505945", "Samsung A10s", "10", "8205", "R9ANC0T864J" ]
+      } ],
+      "uid" : "b317b7ee12aaa88d7f0254717e2d8207"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
